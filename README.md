@@ -1,6 +1,6 @@
 # BigchainDB-Test
 
-##Utilização
+## Utilização
 
 Inserir dependencias via pip
 `pip install bigchaindb-driver`
@@ -9,6 +9,6 @@ Rodar código
 `python run.py`
 
 
-##Sobre
+## Sobre
 Desenvolvido como parte prática na apresentação de Banco de Dados Blockchain
 Prof. Nilceu Marana - Banco de Dados 2
